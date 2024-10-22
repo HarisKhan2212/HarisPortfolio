@@ -1,8 +1,10 @@
 function Title() {
-    return<div>
-        <h1>Haris Khan</h1>
-        <h2>Software Developer</h2>
+    return (
+        <div>
+            <h1 style={{ fontFamily: 'Neue Haas Display, sans-serif', fontWeight: 'bold' }}>Haris Khan</h1>
+            <h2 style={{ fontFamily: 'Neue Haas Display, sans-serif', fontWeight: 'bold' }}>Software Developer</h2>
         </div>
+    );
 }
 
-export default Title
+export default Title;

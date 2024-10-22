@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Neue Haas Display';
+  src: url('./assets/fonts/NeueHaasDisplayBold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
